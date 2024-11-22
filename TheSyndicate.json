@@ -1,0 +1,1873 @@
+{
+    "Current Week": 14,
+    "Total Points": [
+        {
+            "Name": "Bryni",
+            "Score": 167995,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Arishem is 4 Newbs",
+            "Score": 149156,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Galamir",
+            "Score": 149056,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Mr. Wiggles",
+            "Score": 133315,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Sir",
+            "Score": 99102,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Adman895",
+            "Score": 82626,
+            "Active": true,
+            "Week Joined": 2,
+            "Week Kicked": null
+        },
+        {
+            "Name": "<<AFcooL84>>",
+            "Score": 81871,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Joshernaught",
+            "Score": 81533,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Roo",
+            "Score": 78273,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Gods Perfect 1diot",
+            "Score": 74512,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Wizzarrd",
+            "Score": 73647,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Prophect",
+            "Score": 72860,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "M1573R-X",
+            "Score": 72728,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
+            "Name": "yablo",
+            "Score": 70348,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "3i",
+            "Score": 70038,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Happy Festivus!!!",
+            "Score": 70028,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Bread",
+            "Score": 68634,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Drac20th",
+            "Score": 64481,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Prinzanity",
+            "Score": 63387,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "BAKA",
+            "Score": 61917,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Bart Pimpson",
+            "Score": 60928,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Octty",
+            "Score": 56256,
+            "Active": true,
+            "Week Joined": 2,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Tomii",
+            "Score": 55800,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Cheem",
+            "Score": 54213,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
+            "Name": "SuperSeanic",
+            "Score": 51386,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "DemiseKing",
+            "Score": 51020,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Hoggur",
+            "Score": 48656,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Enjoyer DestroyeR",
+            "Score": 38953,
+            "Active": true,
+            "Week Joined": 6,
+            "Week Kicked": null
+        },
+        {
+            "Name": "TavobOy",
+            "Score": 32928,
+            "Active": true,
+            "Week Joined": 6,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Kable",
+            "Score": 25660,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 8
+        },
+        {
+            "Name": "Kettellkorn",
+            "Score": 24128,
+            "Active": true,
+            "Week Joined": 9,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Perkules",
+            "Score": 12770,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 5
+        },
+        {
+            "Name": "KO",
+            "Score": 12352,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 5
+        },
+        {
+            "Name": "B1umpkinSpice",
+            "Score": 7271,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 1
+        },
+        {
+            "Name": "Frypanmaniac",
+            "Score": 4239,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 2
+        },
+        {
+            "Name": "SnapsMcGee",
+            "Score": 3828,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 2
+        },
+        {
+            "Name": "stank McFunk",
+            "Score": 3791,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 2
+        },
+        {
+            "Name": "BadKaraoke",
+            "Score": 3298,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 2
+        },
+        {
+            "Name": "Studcupcakeface",
+            "Score": 3151,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 2
+        },
+        {
+            "Name": "IceRR",
+            "Score": 754,
+            "Active": false,
+            "Week Joined": 1,
+            "Week Kicked": 1
+        }
+    ],
+    "Weekly Contributors": {
+        "Week 1": [
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 14024
+            },
+            {
+                "Name": "Bryni",
+                "Points": 8728
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 7487
+            },
+            {
+                "Name": "B1umpkinSpice",
+                "Points": 7271
+            },
+            {
+                "Name": "Sir",
+                "Points": 6680
+            },
+            {
+                "Name": "Bread",
+                "Points": 5831
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 5799
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 5407
+            },
+            {
+                "Name": "Roo",
+                "Points": 4851
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4671
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 4595
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 4539
+            },
+            {
+                "Name": "3i",
+                "Points": 4518
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 4455
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4408
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4222
+            },
+            {
+                "Name": "Kable",
+                "Points": 3500
+            },
+            {
+                "Name": "Perkules",
+                "Points": 3061
+            },
+            {
+                "Name": "SnapsMcGee",
+                "Points": 2956
+            },
+            {
+                "Name": "yablo",
+                "Points": 2690
+            },
+            {
+                "Name": "Tomii",
+                "Points": 2593
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 2592
+            },
+            {
+                "Name": "Studcupcakeface",
+                "Points": 2439
+            },
+            {
+                "Name": "BAKA",
+                "Points": 2337
+            },
+            {
+                "Name": "KO",
+                "Points": 2214
+            },
+            {
+                "Name": "Frypanmaniac",
+                "Points": 1897
+            },
+            {
+                "Name": "Prophect",
+                "Points": 1525
+            },
+            {
+                "Name": "stank McFunk",
+                "Points": 1406
+            },
+            {
+                "Name": "BadKaraoke",
+                "Points": 1344
+            },
+            {
+                "Name": "IceRR",
+                "Points": 754
+            }
+        ],
+        "Week 2": [
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 8394
+            },
+            {
+                "Name": "Bryni",
+                "Points": 8301
+            },
+            {
+                "Name": "Prophect",
+                "Points": 7268
+            },
+            {
+                "Name": "Roo",
+                "Points": 6866
+            },
+            {
+                "Name": "Sir",
+                "Points": 6736
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 6710
+            },
+            {
+                "Name": "3i",
+                "Points": 6083
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6030
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 5588
+            },
+            {
+                "Name": "yablo",
+                "Points": 5257
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 5150
+            },
+            {
+                "Name": "Octty",
+                "Points": 4629
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 4606
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 4479
+            },
+            {
+                "Name": "Bread",
+                "Points": 4391
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4193
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4169
+            },
+            {
+                "Name": "Kable",
+                "Points": 4072
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 3583
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 3387
+            },
+            {
+                "Name": "Adman895",
+                "Points": 3202
+            },
+            {
+                "Name": "BAKA",
+                "Points": 2975
+            },
+            {
+                "Name": "KO",
+                "Points": 2718
+            },
+            {
+                "Name": "Perkules",
+                "Points": 2602
+            },
+            {
+                "Name": "stank McFunk",
+                "Points": 2385
+            },
+            {
+                "Name": "Frypanmaniac",
+                "Points": 2342
+            },
+            {
+                "Name": "BadKaraoke",
+                "Points": 1954
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 990
+            },
+            {
+                "Name": "SnapsMcGee",
+                "Points": 872
+            },
+            {
+                "Name": "Studcupcakeface",
+                "Points": 712
+            }
+        ],
+        "Week 3": [
+            {
+                "Name": "Galamir",
+                "Points": 14269
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 14004
+            },
+            {
+                "Name": "BAKA",
+                "Points": 10722
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 10582
+            },
+            {
+                "Name": "Adman895",
+                "Points": 9567
+            },
+            {
+                "Name": "Bryni",
+                "Points": 8707
+            },
+            {
+                "Name": "Prophect",
+                "Points": 8441
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 7759
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 7275
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 6550
+            },
+            {
+                "Name": "Sir",
+                "Points": 6544
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 6416
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 6299
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 6268
+            },
+            {
+                "Name": "3i",
+                "Points": 6219
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 6117
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5632
+            },
+            {
+                "Name": "Bread",
+                "Points": 5588
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 5130
+            },
+            {
+                "Name": "Kable",
+                "Points": 5060
+            },
+            {
+                "Name": "yablo",
+                "Points": 5035
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4615
+            },
+            {
+                "Name": "Octty",
+                "Points": 4549
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4421
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4333
+            },
+            {
+                "Name": "Roo",
+                "Points": 4218
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4132
+            },
+            {
+                "Name": "Perkules",
+                "Points": 4087
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3953
+            },
+            {
+                "Name": "KO",
+                "Points": 3037
+            }
+        ],
+        "Week 4": [
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 20268
+            },
+            {
+                "Name": "Adman895",
+                "Points": 8302
+            },
+            {
+                "Name": "Prophect",
+                "Points": 7980
+            },
+            {
+                "Name": "Galamir",
+                "Points": 7886
+            },
+            {
+                "Name": "3i",
+                "Points": 6583
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 5979
+            },
+            {
+                "Name": "Bread",
+                "Points": 5899
+            },
+            {
+                "Name": "Bryni",
+                "Points": 5885
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5868
+            },
+            {
+                "Name": "BAKA",
+                "Points": 5453
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 5377
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 5323
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 5166
+            },
+            {
+                "Name": "Roo",
+                "Points": 5071
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 5000
+            },
+            {
+                "Name": "yablo",
+                "Points": 4784
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4591
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 4550
+            },
+            {
+                "Name": "Octty",
+                "Points": 4468
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4457
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 4414
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 4413
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4348
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4216
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4169
+            },
+            {
+                "Name": "Kable",
+                "Points": 3684
+            },
+            {
+                "Name": "Tomii",
+                "Points": 2813
+            },
+            {
+                "Name": "KO",
+                "Points": 2237
+            },
+            {
+                "Name": "Sir",
+                "Points": 1964
+            },
+            {
+                "Name": "Perkules",
+                "Points": 1903
+            }
+        ],
+        "Week 5": [
+            {
+                "Name": "Joshernaught",
+                "Points": 18614
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 16534
+            },
+            {
+                "Name": "Galamir",
+                "Points": 13259
+            },
+            {
+                "Name": "Roo",
+                "Points": 11306
+            },
+            {
+                "Name": "Prophect",
+                "Points": 9243
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 8765
+            },
+            {
+                "Name": "3i",
+                "Points": 8624
+            },
+            {
+                "Name": "Bryni",
+                "Points": 7769
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 7129
+            },
+            {
+                "Name": "Sir",
+                "Points": 6901
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 6585
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 6512
+            },
+            {
+                "Name": "Bread",
+                "Points": 6271
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 6058
+            },
+            {
+                "Name": "Adman895",
+                "Points": 5182
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4858
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4628
+            },
+            {
+                "Name": "Cheem",
+                "Points": 4627
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 4591
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4578
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4528
+            },
+            {
+                "Name": "Octty",
+                "Points": 4472
+            },
+            {
+                "Name": "yablo",
+                "Points": 4221
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 3349
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3309
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 2773
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 2357
+            },
+            {
+                "Name": "Kable",
+                "Points": 2213
+            },
+            {
+                "Name": "KO",
+                "Points": 2146
+            },
+            {
+                "Name": "Perkules",
+                "Points": 1117
+            }
+        ],
+        "Week 6": [
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 19064
+            },
+            {
+                "Name": "Bryni",
+                "Points": 16274
+            },
+            {
+                "Name": "Sir",
+                "Points": 11876
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 10819
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 8356
+            },
+            {
+                "Name": "Galamir",
+                "Points": 7902
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 6086
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 5241
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 5219
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5173
+            },
+            {
+                "Name": "3i",
+                "Points": 4883
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4752
+            },
+            {
+                "Name": "yablo",
+                "Points": 4641
+            },
+            {
+                "Name": "Cheem",
+                "Points": 4593
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4522
+            },
+            {
+                "Name": "Kable",
+                "Points": 4472
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 4471
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4447
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4422
+            },
+            {
+                "Name": "Roo",
+                "Points": 4395
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4364
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4354
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4336
+            },
+            {
+                "Name": "Bread",
+                "Points": 4211
+            },
+            {
+                "Name": "Octty",
+                "Points": 4207
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 3888
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 3630
+            },
+            {
+                "Name": "Adman895",
+                "Points": 3586
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 3400
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 2944
+            }
+        ],
+        "Week 7": [
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 17258
+            },
+            {
+                "Name": "Bryni",
+                "Points": 14648
+            },
+            {
+                "Name": "Galamir",
+                "Points": 12143
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 9951
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 7535
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 7159
+            },
+            {
+                "Name": "yablo",
+                "Points": 7129
+            },
+            {
+                "Name": "Adman895",
+                "Points": 6381
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 6297
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 6178
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 6042
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 5395
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 5030
+            },
+            {
+                "Name": "Sir",
+                "Points": 4971
+            },
+            {
+                "Name": "Prophect",
+                "Points": 4953
+            },
+            {
+                "Name": "Roo",
+                "Points": 4778
+            },
+            {
+                "Name": "Octty",
+                "Points": 4664
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4597
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4437
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 4407
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4332
+            },
+            {
+                "Name": "Bread",
+                "Points": 4306
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 4207
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4173
+            },
+            {
+                "Name": "Cheem",
+                "Points": 3655
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 3485
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 3192
+            },
+            {
+                "Name": "3i",
+                "Points": 3005
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 2320
+            },
+            {
+                "Name": "Kable",
+                "Points": 1068
+            }
+        ],
+        "Week 8": [
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 15782
+            },
+            {
+                "Name": "Bryni",
+                "Points": 9438
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 7783
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 7041
+            },
+            {
+                "Name": "Sir",
+                "Points": 6776
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 6236
+            },
+            {
+                "Name": "Adman895",
+                "Points": 5801
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 5387
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 5351
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 5031
+            },
+            {
+                "Name": "Roo",
+                "Points": 4646
+            },
+            {
+                "Name": "Octty",
+                "Points": 4542
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4417
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4409
+            },
+            {
+                "Name": "Galamir",
+                "Points": 4386
+            },
+            {
+                "Name": "Bread",
+                "Points": 4379
+            },
+            {
+                "Name": "Cheem",
+                "Points": 4370
+            },
+            {
+                "Name": "3i",
+                "Points": 4214
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4174
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4151
+            },
+            {
+                "Name": "yablo",
+                "Points": 4111
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 3763
+            },
+            {
+                "Name": "Prophect",
+                "Points": 3609
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 3435
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3402
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 3390
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 3140
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 3100
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 2206
+            },
+            {
+                "Name": "Kable",
+                "Points": 1591
+            }
+        ],
+        "Week 9": [
+            {
+                "Name": "M1573R-X",
+                "Points": 12847
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 12282
+            },
+            {
+                "Name": "Sir",
+                "Points": 11410
+            },
+            {
+                "Name": "yablo",
+                "Points": 10219
+            },
+            {
+                "Name": "Galamir",
+                "Points": 9605
+            },
+            {
+                "Name": "Adman895",
+                "Points": 9383
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 9022
+            },
+            {
+                "Name": "Bryni",
+                "Points": 7319
+            },
+            {
+                "Name": "Bread",
+                "Points": 7259
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 6152
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 5884
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 5789
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 5666
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 5364
+            },
+            {
+                "Name": "Roo",
+                "Points": 5128
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5127
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 5119
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 5000
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 4963
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4637
+            },
+            {
+                "Name": "3i",
+                "Points": 4379
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4373
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4336
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4315
+            },
+            {
+                "Name": "Octty",
+                "Points": 4255
+            },
+            {
+                "Name": "BAKA",
+                "Points": 3804
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 3372
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 3358
+            },
+            {
+                "Name": "Prophect",
+                "Points": 2525
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 1719
+            }
+        ],
+        "Week 10": [
+            {
+                "Name": "Bryni",
+                "Points": 23803
+            },
+            {
+                "Name": "Galamir",
+                "Points": 17447
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 16373
+            },
+            {
+                "Name": "Sir",
+                "Points": 12448
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 8604
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 8491
+            },
+            {
+                "Name": "Tomii",
+                "Points": 7694
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 7642
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6655
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 6408
+            },
+            {
+                "Name": "Adman895",
+                "Points": 5925
+            },
+            {
+                "Name": "yablo",
+                "Points": 5882
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5751
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 5519
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 5484
+            },
+            {
+                "Name": "Octty",
+                "Points": 5186
+            },
+            {
+                "Name": "Roo",
+                "Points": 4978
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 4931
+            },
+            {
+                "Name": "3i",
+                "Points": 4770
+            },
+            {
+                "Name": "Bread",
+                "Points": 4698
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4632
+            },
+            {
+                "Name": "Cheem",
+                "Points": 4507
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4455
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4418
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4398
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4362
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 4253
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 3710
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 3080
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 2681
+            }
+        ],
+        "Week 11": [
+            {
+                "Name": "Galamir",
+                "Points": 23449
+            },
+            {
+                "Name": "Bryni",
+                "Points": 10630
+            },
+            {
+                "Name": "Sir",
+                "Points": 9962
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 8441
+            },
+            {
+                "Name": "Adman895",
+                "Points": 8041
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 7975
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 7361
+            },
+            {
+                "Name": "Roo",
+                "Points": 7335
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 6558
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6360
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 5864
+            },
+            {
+                "Name": "yablo",
+                "Points": 5747
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5549
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 5388
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 5096
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5079
+            },
+            {
+                "Name": "Tomii",
+                "Points": 5023
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 4965
+            },
+            {
+                "Name": "Octty",
+                "Points": 4911
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4824
+            },
+            {
+                "Name": "Bread",
+                "Points": 4726
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4564
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 4514
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4421
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 4398
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4291
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4251
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4182
+            },
+            {
+                "Name": "3i",
+                "Points": 4122
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 4105
+            }
+        ],
+        "Week 12": [
+            {
+                "Name": "Bryni",
+                "Points": 22202
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 20669
+            },
+            {
+                "Name": "Galamir",
+                "Points": 19231
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 12006
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 10798
+            },
+            {
+                "Name": "Adman895",
+                "Points": 10247
+            },
+            {
+                "Name": "Roo",
+                "Points": 9280
+            },
+            {
+                "Name": "Bread",
+                "Points": 6313
+            },
+            {
+                "Name": "3i",
+                "Points": 6030
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6011
+            },
+            {
+                "Name": "Octty",
+                "Points": 5981
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 5897
+            },
+            {
+                "Name": "Sir",
+                "Points": 5749
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 5710
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5539
+            },
+            {
+                "Name": "yablo",
+                "Points": 5487
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 5158
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5039
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 5038
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 5034
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4999
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4928
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 4730
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 4603
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4462
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4246
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4230
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4131
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4070
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 2995
+            }
+        ],
+        "Week 13": [
+            {
+                "Name": "Bryni",
+                "Points": 24291
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 21672
+            },
+            {
+                "Name": "Galamir",
+                "Points": 19479
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 7397
+            },
+            {
+                "Name": "Sir",
+                "Points": 7085
+            },
+            {
+                "Name": "Adman895",
+                "Points": 7009
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 6970
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6832
+            },
+            {
+                "Name": "3i",
+                "Points": 6608
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 6078
+            },
+            {
+                "Name": "Tomii",
+                "Points": 5813
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5804
+            },
+            {
+                "Name": "Roo",
+                "Points": 5421
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 5251
+            },
+            {
+                "Name": "Cheem",
+                "Points": 5216
+            },
+            {
+                "Name": "yablo",
+                "Points": 5145
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 5135
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4918
+            },
+            {
+                "Name": "Bread",
+                "Points": 4762
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 4595
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4582
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4467
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 4461
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4457
+            },
+            {
+                "Name": "Octty",
+                "Points": 4392
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 4243
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4148
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 4081
+            },
+            {
+                "Name": "TavobOy",
+                "Points": 3579
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 3435
+            }
+        ]
+    }
+}

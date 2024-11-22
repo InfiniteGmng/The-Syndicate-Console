@@ -1,0 +1,15 @@
+{
+  "Current Week": 1,
+  "Total Points": [
+    {
+      "Name": "",
+      "Score": 0,
+      "Active": true,
+      "Week Joined": null,
+      "Week Kicked": null
+    }
+  ],
+  "Weekly Contributors": {
+    "Week 1": [{ "Name": "", "Points": 0 }]
+  }
+}

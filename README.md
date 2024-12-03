@@ -32,6 +32,8 @@ Menu 5 has these choices: 1. Confirm and 2. Cancel. Option 1 confirms the choice
 
 Menu 6 has these choices: 1. Name, 2. Total Points, 3. Week Joined, 4. Active, and 5. Exit. Options 1, 2, 3, and 4 all let the user change that field in the inputed "Player" object. It asks the user what they want to change the value to, then it takes that input and updates the object. If the user inputs an invalid data type, throw an error message and give Menu 6 again. Make sure if this happens that the "userInput" variable doesn't get reset.
 
+After the user is prompted for a week number, ask the user what data they want to view. If the user enters "all/a/0" give them all the data from that week object (this is what it does currently without asking what data). If the user says, "top/t #" (#=a number, stored in a user_count var), give the user_week with only the first user_count number of players from that week (make sure week is ordered highest points first). If the user says, "bottom/b #" give the user_week with only the last user_count number of players from that week (it should give the user_count lowest point players from that week). If the user inputs a negative number for user_count, this should "invert" the order of which players it gives. For example if the user inputs "t 3" it should give the 3 highest point players from that week, but if the user inputs "t -3" it should give the 3 lowest point players from that week.
+
 # ADD THIS -> Make sure all functions have catches for negative numbers.
 
 # ADD THIS -> Add a way to update a players points per week not just score

@@ -585,21 +585,10 @@ def command_menu():
             print("\nTotal points updated for all players.")
 
 
-        # Prints out a specific week to view.
+        # Runs the View Week function.
         elif action == "Week":
-            user_week = input("\nEnter the week number to view: ").strip()
-            try:
-                week_key = f"Week {int(user_week)}"
-                if week_key in data["Weekly Contributors"]:
-                    print(f"\n- {week_key}")
-                    for player in data["Weekly Contributors"][week_key]:
-                        print(f"  {player['Name']}: {player['Points']}")
-                else:
-                    print(f"\nWeek {user_week} does not exist.")
-            except ValueError:
-                print("\nInvalid week number. Please enter a valid number.")
+          view_week(data)
 
-          
         # Prints out a specific player to view.
         elif action == "Player":
             user_name = input("\nEnter the player's name: ").strip()
@@ -647,6 +636,58 @@ def command_menu():
         elif action == "Exit":
             break
 
+# Prints out a specific week and players to view.
+def view_week(data):
+    user_week = input("\nEnter the week number to view: ").strip()
+    try:
+        week_key = f"Week {int(user_week)}"
+        if week_key in data["Weekly Contributors"]:
+            data_choice = input("\nWhat players would you like to view: ").strip().lower()
+
+            # Sort by points descending by default
+            week_data = sorted(
+                data["Weekly Contributors"][week_key],
+                key=lambda player: player["Points"],
+                reverse=True
+            )
+
+            # Show all data
+            if data_choice in ["all", "a", "0"]:
+                print(f"\n- {week_key}")
+                for player in week_data:
+                    print(f"  {player['Name']}: {player['Points']}")
+            
+            # Show top players
+            elif data_choice.startswith("top") or data_choice.startswith("t"):
+                try:
+                    user_count = int(data_choice.split()[-1])
+                    if user_count < 0:
+                        user_count = abs(user_count)
+                        week_data = sorted(week_data, key=lambda player: player["Points"])
+                    print(f"\n- {week_key}")
+                    for player in week_data[:user_count]:
+                        print(f"  {player['Name']}: {player['Points']}")
+                except (ValueError, IndexError):
+                    print("\nInvalid input for 'top'. Please use 'top #' format.")
+
+            # Show bottom players
+            elif data_choice.startswith("bottom") or data_choice.startswith("b"):
+                try:
+                    user_count = int(data_choice.split()[-1])
+                    if user_count < 0:
+                        user_count = abs(user_count)
+                        week_data = sorted(week_data, key=lambda player: player["Points"], reverse=True)
+                    print(f"\n- {week_key}")
+                    for player in week_data[-user_count:]:
+                        print(f"  {player['Name']}: {player['Points']}")
+                except (ValueError, IndexError):
+                    print("\nInvalid input for 'bottom'. Please use 'bottom #' format.")
+            else:
+                print("\nInvalid choice. Please use 'all', 'top', or 'bottom'.")
+        else:
+            print(f"\nWeek {user_week} does not exist.")
+    except ValueError:
+        print("\nInvalid week number. Please enter a valid number.")
 
 # Menu for managing the current week.
 def time_menu(data):

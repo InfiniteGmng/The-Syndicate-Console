@@ -609,8 +609,12 @@ def command_menu():
         if action == "Total":
             score_calculator(data)
 
+            # Sort the players by total points (descending)
+            sorted_players = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
+
+            # Print the total points
             print("\n- Total Points")
-            for player in score_calculator.sorted_players:
+            for player in sorted_players:
                 print(f"{player['Name']}: {player['Score']}")
 
             save_data(data)

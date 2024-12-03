@@ -90,7 +90,9 @@ def main_menu():
         choice = input("\nChoose an option: ").strip()
         
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()
@@ -138,7 +140,9 @@ def week_menu():
         choice = input("\nChoose an option: ").strip()
 
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()
@@ -180,6 +184,7 @@ def week_menu():
         # Ends the script.
         elif action == "Exit":
             break
+
 
 # Creates a new week object.
 def create_week(data):
@@ -300,7 +305,9 @@ def player_menu():
         choice = input("\nChoose an option: ").strip()
 
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()
@@ -446,7 +453,9 @@ def modify_menu(data, player):
         choice = input("\nChoose an option: ").strip()
 
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()
@@ -466,20 +475,9 @@ def modify_menu(data, player):
                 continue
             player["Name"] = new_name
 
-        # Changes an existing player's total points.
+        # Runs the Update Score function.
         elif action == "Score":
-            try:
-                new_score = int(input("\nEnter the new total points: ").strip())
-
-                if new_score < 0:
-                    new_score = 0
-
-                player["Score"] = new_score
-                save_data(data)
-                print(f"\nPlayer's 'Score' has been updated to {new_score}.")
-            except ValueError:
-                print("\nInvalid input. Please enter a valid number.")
-                continue
+            update_score(data, player)
             
         # Changes an existing player's status.
         elif action == "Active":
@@ -539,6 +537,46 @@ def modify_menu(data, player):
         print(f"\nUpdated player: {player}")
 
 
+# Updates a player's points for a specific week.
+def update_score(data, player):
+    try:
+        # Ask the user for a week
+        user_week = input("\nEnter the week number to modify: ").strip()
+        week_key = f"Week {int(user_week)}"
+        
+        if week_key not in data["Weekly Contributors"]:
+            print(f"\nWeek {user_week} does not exist.")
+            return
+        
+        # Confirm the player is in the selected week
+        week_data = data["Weekly Contributors"][week_key]
+        player_in_week = next((p for p in week_data if p["Name"].lower() == player["Name"].lower()), None)
+
+        if not player_in_week:
+            print(f"\nPlayer {player['Name']} is not listed in Week {user_week}.")
+            return
+
+        # Ask for the new score
+        print(f"\nCurrent points for Week {user_week}: {player_in_week['Points']}")
+        new_score = int(input("Enter the new points: ").strip())
+        if new_score < 0:
+            new_score = 0
+
+        # Update the player's score in the specified week
+        player_in_week["Points"] = new_score
+        print(f"\n{player_in_week['Name']}'s points for {week_key} have been updated to {new_score}.")
+
+        # Recalculate the total points
+        score_calculator(data)
+
+        # Save the updated data
+        save_data(data)
+    except ValueError:
+        print("\nInvalid input. Please enter a valid number.")
+    except Exception as e:
+        print(f"\nAn error occurred: {e}")
+
+
 # Menu for viewing the JSON file data.
 def command_menu():
     options = {
@@ -555,7 +593,9 @@ def command_menu():
         choice = input("\nChoose an option: ").strip()
         
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()
@@ -565,25 +605,16 @@ def command_menu():
 
         data = load_data()
 
-        # Calculates, updates, and prints the total points for each player across all weeks.
+        # Prints the total points for each player across all weeks.
         if action == "Total":
-            for player in data["Total Points"]:
-                total_points = 0
-                for week in data["Weekly Contributors"].values():
-                    for contributor in week:
-                        if contributor["Name"].lower() == player["Name"].lower():
-                            total_points += contributor["Points"]
-                player["Score"] = total_points
+            score_calculator(data)
 
-                sorted_players = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
-    
             print("\n- Total Points")
-            for player in sorted_players:
+            for player in score_calculator.sorted_players:
                 print(f"{player['Name']}: {player['Score']}")
 
             save_data(data)
             print("\nTotal points updated for all players.")
-
 
         # Runs the View Week function.
         elif action == "Week":
@@ -635,6 +666,21 @@ def command_menu():
         # Ends the script.
         elif action == "Exit":
             break
+
+
+# Calculates and updates the score for each player.
+def score_calculator(data):
+    for player in data["Total Points"]:
+        total_points = 0
+        for week in data["Weekly Contributors"].values():
+            for contributor in week:
+                if contributor["Name"].lower() == player["Name"].lower():
+                    total_points += contributor["Points"]
+        player["Score"] = total_points
+
+        sorted_players = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
+    return sorted_players
+
 
 # Prints out a specific week and players to view.
 def view_week(data):
@@ -689,6 +735,7 @@ def view_week(data):
     except ValueError:
         print("\nInvalid week number. Please enter a valid number.")
 
+
 # Menu for managing the current week.
 def time_menu(data):
     global current_week
@@ -704,7 +751,9 @@ def time_menu(data):
         choice = input("\nChoose an option: ").strip()
         
         # Matches the input to the appropriate option
-        if choice in options:
+        if choice.lower() == "e":
+            action = "Exit"
+        elif choice in options:
             action = options[choice]
         elif choice.capitalize() in options.values():
             action = choice.capitalize()

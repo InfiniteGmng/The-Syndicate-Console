@@ -489,7 +489,7 @@ def modify_menu(data, player):
             elif active_status in ["no", "n"]:
                 player["Active"] = False
                 if player.get("Week Kicked") is None:
-                    player["Week Kicked"] = current_week
+                    player["Week Kicked"] = current_week - 1
             else:
                 print("\nInvalid input. Please enter 'yes' or 'no'.")
                 continue

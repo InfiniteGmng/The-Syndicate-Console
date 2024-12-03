@@ -35,3 +35,5 @@ Menu 6 has these choices: 1. Name, 2. Total Points, 3. Week Joined, 4. Active, a
 # ADD THIS -> Make sure all functions have catches for negative numbers.
 
 # ADD THIS -> Add a way to update a players points per week not just score
+
+# MAYBE ADD THIS -> If the user updates the Active field, it should prompt the user for week_kicked. If the user inputs "current/c" make the week_kicked = current_week.

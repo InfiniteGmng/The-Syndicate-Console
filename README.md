@@ -34,4 +34,8 @@ Menu 6 has these choices: 1. Name, 2. Total Points, 3. Week Joined, 4. Active, a
 
 After the user is prompted for a week number, ask the user what data they want to view. If the user enters "all/a/0" give them all the data from that week object (this is what it does currently without asking what data). If the user says, "top/t #" (#=a number, stored in a user_count var), give the user_week with only the first user_count number of players from that week (make sure week is ordered highest points first). If the user says, "bottom/b #" give the user_week with only the last user_count number of players from that week (it should give the user_count lowest point players from that week). If the user inputs a negative number for user_count, this should "invert" the order of which players it gives. For example if the user inputs "t 3" it should give the 3 highest point players from that week, but if the user inputs "t -3" it should give the 3 lowest point players from that week.
 
-# MAYBE ADD THIS -> If the user updates the Active field, it should prompt the user for week_kicked. If the user inputs "current/c" make the week_kicked = current_week.
+# ADD THIS -> If the user updates the Active field, it should prompt the user for week_kicked. If the user inputs "current/c" make the week_kicked = current_week.
+
+# ADD THIS -> If a player's name is changed, then each week should also update with the correct name
+
+# ADD THIS -> When the week_kicked is updated to something other than null, update the Active field to false automatically

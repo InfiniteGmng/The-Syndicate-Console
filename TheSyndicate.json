@@ -1,200 +1,200 @@
 {
-    "Current Week": 16,
+    "Current Week": 20,
     "Total Points": [
         {
             "Name": "Bryni",
-            "Score": 189732,
+            "Score": 251762,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Galamir",
-            "Score": 186485,
+            "Score": 234366,
             "Active": true,
             "Week Joined": 3,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Arishem is 4 Newbs",
-            "Score": 160146,
-            "Active": true,
-            "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Mr. Wiggles",
-            "Score": 151288,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Sir",
-            "Score": 109295,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Happy Festivus!!!",
-            "Score": 95637,
-            "Active": true,
-            "Week Joined": 3,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Adman895",
-            "Score": 95135,
-            "Active": true,
-            "Week Joined": 2,
-            "Week Kicked": null
-        },
-        {
-            "Name": "<<AFcooL84>>",
-            "Score": 93038,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Joshernaught",
-            "Score": 91624,
+            "Score": 197476,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Roo",
-            "Score": 88140,
+            "Score": 128025,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Sir",
+            "Score": 123493,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Adman895",
+            "Score": 115585,
+            "Active": true,
+            "Week Joined": 2,
+            "Week Kicked": null
+        },
+        {
+            "Name": "<<AFcooL84>>",
+            "Score": 115178,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Joshernaught",
+            "Score": 112034,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Wizzarrd",
-            "Score": 83464,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Gods Perfect 1diot",
-            "Score": 83398,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "3i",
-            "Score": 83234,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "M1573R-X",
-            "Score": 82859,
-            "Active": true,
-            "Week Joined": 3,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Prophect",
-            "Score": 82474,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "yablo",
-            "Score": 81417,
+            "Score": 105932,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Bread",
-            "Score": 79447,
+            "Score": 104627,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
+            "Name": "3i",
+            "Score": 103905,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "yablo",
+            "Score": 102377,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Gods Perfect 1diot",
+            "Score": 101954,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Prophect",
+            "Score": 101906,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "M1573R-X",
+            "Score": 100857,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
+        },
+        {
             "Name": "Bart Pimpson",
-            "Score": 73158,
+            "Score": 96666,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "BAKA",
-            "Score": 73104,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Drac20th",
-            "Score": 71968,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Prinzanity",
-            "Score": 70310,
+            "Score": 93170,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Octty",
-            "Score": 65015,
+            "Score": 91616,
             "Active": true,
             "Week Joined": 2,
             "Week Kicked": null
         },
         {
-            "Name": "Tomii",
-            "Score": 63712,
+            "Name": "Drac20th",
+            "Score": 89957,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Cheem",
-            "Score": 63448,
+            "Score": 88854,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
         },
         {
-            "Name": "SuperSeanic",
-            "Score": 62845,
+            "Name": "Prinzanity",
+            "Score": 84998,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
-            "Name": "DemiseKing",
-            "Score": 61172,
+            "Name": "Tomii",
+            "Score": 81173,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "SuperSeanic",
+            "Score": 79756,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Hoggur",
-            "Score": 56854,
+            "Score": 74213,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
         },
         {
-            "Name": "Enjoyer DestroyeR",
-            "Score": 47428,
+            "Name": "DemiseKing",
+            "Score": 71085,
             "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Kettellkorn",
+            "Score": 52424,
+            "Active": true,
+            "Week Joined": 9,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Enjoyer DestroyeR",
+            "Score": 51568,
+            "Active": false,
             "Week Joined": 6,
+            "Week Kicked": 17
+        },
+        {
+            "Name": "M-r-420",
+            "Score": 42415,
+            "Active": true,
+            "Week Joined": 17,
             "Week Kicked": null
         },
         {
@@ -203,13 +203,6 @@
             "Active": false,
             "Week Joined": 6,
             "Week Kicked": 15
-        },
-        {
-            "Name": "Kettellkorn",
-            "Score": 32786,
-            "Active": true,
-            "Week Joined": 9,
-            "Week Kicked": null
         },
         {
             "Name": "Kable",
@@ -231,6 +224,20 @@
             "Active": false,
             "Week Joined": 1,
             "Week Kicked": 5
+        },
+        {
+            "Name": "Soulmourn",
+            "Score": 11610,
+            "Active": true,
+            "Week Joined": 18,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Joker NPC",
+            "Score": 8402,
+            "Active": true,
+            "Week Joined": 3,
+            "Week Kicked": null
         },
         {
             "Name": "B1umpkinSpice",
@@ -259,6 +266,13 @@
             "Active": false,
             "Week Joined": 1,
             "Week Kicked": 2
+        },
+        {
+            "Name": "RNGezus H8s Me",
+            "Score": 3751,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
         },
         {
             "Name": "BadKaraoke",
@@ -2111,6 +2125,490 @@
             {
                 "Name": "TavobOy",
                 "Points": 213
+            }
+        ],
+        "Week 16": [
+            {
+                "Name": "Bryni",
+                "Points": 21553
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 16161
+            },
+            {
+                "Name": "Galamir",
+                "Points": 10599
+            },
+            {
+                "Name": "Roo",
+                "Points": 10070
+            },
+            {
+                "Name": "Adman895",
+                "Points": 8789
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 8552
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 8164
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 7870
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 7258
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 6086
+            },
+            {
+                "Name": "yablo",
+                "Points": 5472
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 5350
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5152
+            },
+            {
+                "Name": "3i",
+                "Points": 5124
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 5064
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4789
+            },
+            {
+                "Name": "Octty",
+                "Points": 4782
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4779
+            },
+            {
+                "Name": "Tomii",
+                "Points": 4552
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4500
+            },
+            {
+                "Name": "Bread",
+                "Points": 4436
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4285
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4280
+            },
+            {
+                "Name": "Cheem",
+                "Points": 4171
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4063
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 3741
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 2762
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 1656
+            },
+            {
+                "Name": "Sir",
+                "Points": 650
+            }
+        ],
+        "Week 17": [
+            {
+                "Name": "Galamir",
+                "Points": 15085
+            },
+            {
+                "Name": "M-r-420",
+                "Points": 14363
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 13169
+            },
+            {
+                "Name": "Bryni",
+                "Points": 9011
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 8660
+            },
+            {
+                "Name": "Octty",
+                "Points": 6216
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 6172
+            },
+            {
+                "Name": "Arishem is 4 Newbs",
+                "Points": 5665
+            },
+            {
+                "Name": "Bread",
+                "Points": 5478
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 5441
+            },
+            {
+                "Name": "BAKA",
+                "Points": 5129
+            },
+            {
+                "Name": "Roo",
+                "Points": 5096
+            },
+            {
+                "Name": "Prophect",
+                "Points": 5032
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 5002
+            },
+            {
+                "Name": "Adman895",
+                "Points": 4871
+            },
+            {
+                "Name": "3i",
+                "Points": 4744
+            },
+            {
+                "Name": "yablo",
+                "Points": 4572
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 4551
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4464
+            },
+            {
+                "Name": "Happy Festivus!!!",
+                "Points": 4462
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4454
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 4398
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4026
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4000
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3291
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 2954
+            },
+            {
+                "Name": "Cheem",
+                "Points": 2325
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 2027
+            },
+            {
+                "Name": "Enjoyer DestroyeR",
+                "Points": 1378
+            },
+            {
+                "Name": "Sir",
+                "Points": 0
+            }
+        ],
+        "Week 18": [
+            {
+                "Name": "Roo",
+                "Points": 17525
+            },
+            {
+                "Name": "Bryni",
+                "Points": 15402
+            },
+            {
+                "Name": "M-r-420",
+                "Points": 13374
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 10856
+            },
+            {
+                "Name": "Sir",
+                "Points": 8707
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 6251
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 5533
+            },
+            {
+                "Name": "3i",
+                "Points": 5418
+            },
+            {
+                "Name": "Galamir",
+                "Points": 5396
+            },
+            {
+                "Name": "yablo",
+                "Points": 4808
+            },
+            {
+                "Name": "Octty",
+                "Points": 4748
+            },
+            {
+                "Name": "Prophect",
+                "Points": 4712
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4588
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4527
+            },
+            {
+                "Name": "Bread",
+                "Points": 4452
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 4440
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 4353
+            },
+            {
+                "Name": "Joker NPC",
+                "Points": 4248
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 4234
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4109
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 3774
+            },
+            {
+                "Name": "Soulmourn",
+                "Points": 3468
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3378
+            },
+            {
+                "Name": "Cheem",
+                "Points": 2983
+            },
+            {
+                "Name": "RNGezus H8s Me",
+                "Points": 2612
+            },
+            {
+                "Name": "Adman895",
+                "Points": 2548
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 1891
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 1887
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 38
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 0
+            }
+        ],
+        "Week 19": [
+            {
+                "Name": "Galamir",
+                "Points": 16801
+            },
+            {
+                "Name": "Bryni",
+                "Points": 16064
+            },
+            {
+                "Name": "Cheem",
+                "Points": 15927
+            },
+            {
+                "Name": "M-r-420",
+                "Points": 14678
+            },
+            {
+                "Name": "Octty",
+                "Points": 10855
+            },
+            {
+                "Name": "Bread",
+                "Points": 10814
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 10511
+            },
+            {
+                "Name": "Soulmourn",
+                "Points": 8142
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 7847
+            },
+            {
+                "Name": "Roo",
+                "Points": 7194
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 6250
+            },
+            {
+                "Name": "Tomii",
+                "Points": 6240
+            },
+            {
+                "Name": "yablo",
+                "Points": 6108
+            },
+            {
+                "Name": "BAKA",
+                "Points": 5631
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 5618
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 5424
+            },
+            {
+                "Name": "3i",
+                "Points": 5385
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 5237
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 5162
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 5032
+            },
+            {
+                "Name": "Sir",
+                "Points": 4841
+            },
+            {
+                "Name": "Prophect",
+                "Points": 4536
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4511
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 4466
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4376
+            },
+            {
+                "Name": "Adman895",
+                "Points": 4242
+            },
+            {
+                "Name": "Joker NPC",
+                "Points": 4154
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 3175
+            },
+            {
+                "Name": "RNGezus H8s Me",
+                "Points": 1139
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 0
             }
         ]
     }

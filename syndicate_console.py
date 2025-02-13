@@ -607,16 +607,38 @@ def command_menu():
 
         # Prints the total points for each player across all weeks.
         if action == "Total":
+            # Calculate scores for all players
             score_calculator(data)
 
-            # Sort the players by total points (descending)
-            sorted_players = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
+            # Separate active and inactive players, and sort by total points (descending)
+            active_players = sorted(
+                [p for p in data["Total Points"] if p["Active"]],
+                key=lambda p: p["Score"],
+                reverse=True
+            )
+            inactive_players = sorted(
+                [p for p in data["Total Points"] if not p["Active"]],
+                key=lambda p: p["Score"],
+                reverse=True
+            )
 
-            # Print the total points
-            print("\n- Total Points")
-            for player in sorted_players:
-                print(f"{player['Name']}: {player['Score']}")
+            # Print active players
+            print("\nActive Players:")
+            if active_players:
+                for player in active_players:
+                    print(f" - {player['Name']}: {player['Score']}")
+            else:
+                print("  No active players found.")
 
+            # Print inactive players
+            print("\nInactive Players:")
+            if inactive_players:
+                for player in inactive_players:
+                    print(f" - {player['Name']}: {player['Score']}")
+            else:
+                print("  No inactive players found.")
+
+            # Save the updated data
             save_data(data)
             print("\nTotal points updated for all players.")
 
@@ -675,15 +697,16 @@ def command_menu():
 # Calculates and updates the score for each player.
 def score_calculator(data):
     for player in data["Total Points"]:
-        total_points = 0
-        for week in data["Weekly Contributors"].values():
-            for contributor in week:
-                if contributor["Name"].lower() == player["Name"].lower():
-                    total_points += contributor["Points"]
+        total_points = sum(
+            contributor["Points"]
+            for week in data["Weekly Contributors"].values()
+            for contributor in week
+            if contributor["Name"].lower() == player["Name"].lower()
+        )
         player["Score"] = total_points
 
-        sorted_players = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
-    return sorted_players
+    # Sort the players by total score and update the data
+    data["Total Points"] = sorted(data["Total Points"], key=lambda p: p["Score"], reverse=True)
 
 
 # Prints out a specific week and players to view.
@@ -714,7 +737,9 @@ def view_week(data):
                     if user_count < 0:
                         user_count = abs(user_count)
                         week_data = sorted(week_data, key=lambda player: player["Points"])
-                    print(f"\n- {week_key}")
+                        print(f"\n- {week_key} (Bottom {user_count} Players)")
+                    else:
+                        print(f"\n- {week_key} (Top {user_count} Players)")
                     for player in week_data[:user_count]:
                         print(f"  {player['Name']}: {player['Points']}")
                 except (ValueError, IndexError):
@@ -726,8 +751,10 @@ def view_week(data):
                     user_count = int(data_choice.split()[-1])
                     if user_count < 0:
                         user_count = abs(user_count)
-                        week_data = sorted(week_data, key=lambda player: player["Points"], reverse=True)
-                    print(f"\n- {week_key}")
+                        week_data = sorted(week_data, key=lambda player: player["Points"])
+                        print(f"\n- {week_key} (Top {user_count} Players)")
+                    else:
+                        print(f"\n- {week_key} (Bottom {user_count} Players)")
                     for player in week_data[-user_count:]:
                         print(f"  {player['Name']}: {player['Points']}")
                 except (ValueError, IndexError):

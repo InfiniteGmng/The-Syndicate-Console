@@ -1,170 +1,184 @@
 {
-    "Current Week": 20,
+    "Current Week": 21,
     "Total Points": [
         {
             "Name": "Bryni",
-            "Score": 251762,
+            "Score": 263294,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Galamir",
-            "Score": 234366,
+            "Score": 245307,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
         },
         {
             "Name": "Mr. Wiggles",
-            "Score": 197476,
+            "Score": 211345,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "RNGezus H8s Me",
+            "Score": 177438,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Roo",
-            "Score": 128025,
+            "Score": 133999,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Sir",
-            "Score": 123493,
+            "Score": 128985,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Adman895",
-            "Score": 115585,
+            "Score": 120552,
             "Active": true,
             "Week Joined": 2,
             "Week Kicked": null
         },
         {
             "Name": "<<AFcooL84>>",
-            "Score": 115178,
+            "Score": 120426,
             "Active": true,
             "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Joker NPC",
+            "Score": 117711,
+            "Active": true,
+            "Week Joined": 3,
             "Week Kicked": null
         },
         {
             "Name": "Joshernaught",
-            "Score": 112034,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Wizzarrd",
-            "Score": 105932,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Bread",
-            "Score": 104627,
+            "Score": 116740,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "3i",
-            "Score": 103905,
+            "Score": 109815,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
-            "Name": "yablo",
-            "Score": 102377,
+            "Name": "Bread",
+            "Score": 109751,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Gods Perfect 1diot",
-            "Score": 101954,
+            "Score": 107381,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "yablo",
+            "Score": 106427,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Prophect",
-            "Score": 101906,
+            "Score": 106267,
+            "Active": true,
+            "Week Joined": 1,
+            "Week Kicked": null
+        },
+        {
+            "Name": "Wizzarrd",
+            "Score": 106126,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "M1573R-X",
-            "Score": 100857,
+            "Score": 105632,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
         },
         {
             "Name": "Bart Pimpson",
-            "Score": 96666,
+            "Score": 100892,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "BAKA",
-            "Score": 93170,
+            "Score": 97646,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Octty",
-            "Score": 91616,
+            "Score": 95654,
             "Active": true,
             "Week Joined": 2,
             "Week Kicked": null
         },
         {
             "Name": "Drac20th",
-            "Score": 89957,
+            "Score": 94513,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Cheem",
-            "Score": 88854,
+            "Score": 92139,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
         },
         {
             "Name": "Prinzanity",
-            "Score": 84998,
+            "Score": 88701,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Tomii",
-            "Score": 81173,
+            "Score": 85074,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "SuperSeanic",
-            "Score": 79756,
+            "Score": 82961,
             "Active": true,
             "Week Joined": 1,
             "Week Kicked": null
         },
         {
             "Name": "Hoggur",
-            "Score": 74213,
+            "Score": 78498,
             "Active": true,
             "Week Joined": 3,
             "Week Kicked": null
@@ -172,13 +186,20 @@
         {
             "Name": "DemiseKing",
             "Score": 71085,
-            "Active": true,
+            "Active": false,
             "Week Joined": 1,
+            "Week Kicked": 20
+        },
+        {
+            "Name": "M-r-420",
+            "Score": 57535,
+            "Active": true,
+            "Week Joined": 17,
             "Week Kicked": null
         },
         {
             "Name": "Kettellkorn",
-            "Score": 52424,
+            "Score": 56289,
             "Active": true,
             "Week Joined": 9,
             "Week Kicked": null
@@ -189,13 +210,6 @@
             "Active": false,
             "Week Joined": 6,
             "Week Kicked": 17
-        },
-        {
-            "Name": "M-r-420",
-            "Score": 42415,
-            "Active": true,
-            "Week Joined": 17,
-            "Week Kicked": null
         },
         {
             "Name": "TavobOy",
@@ -212,6 +226,13 @@
             "Week Kicked": 8
         },
         {
+            "Name": "Soulmourn",
+            "Score": 14404,
+            "Active": true,
+            "Week Joined": 18,
+            "Week Kicked": null
+        },
+        {
             "Name": "Perkules",
             "Score": 12770,
             "Active": false,
@@ -224,20 +245,6 @@
             "Active": false,
             "Week Joined": 1,
             "Week Kicked": 5
-        },
-        {
-            "Name": "Soulmourn",
-            "Score": 11610,
-            "Active": true,
-            "Week Joined": 18,
-            "Week Kicked": null
-        },
-        {
-            "Name": "Joker NPC",
-            "Score": 8402,
-            "Active": true,
-            "Week Joined": 3,
-            "Week Kicked": null
         },
         {
             "Name": "B1umpkinSpice",
@@ -268,13 +275,6 @@
             "Week Kicked": 2
         },
         {
-            "Name": "RNGezus H8s Me",
-            "Score": 3751,
-            "Active": true,
-            "Week Joined": 1,
-            "Week Kicked": null
-        },
-        {
             "Name": "BadKaraoke",
             "Score": 3298,
             "Active": false,
@@ -294,6 +294,13 @@
             "Active": false,
             "Week Joined": 1,
             "Week Kicked": 1
+        },
+        {
+            "Name": "Dacider",
+            "Score": 0,
+            "Active": true,
+            "Week Joined": 21,
+            "Week Kicked": null
         }
     ],
     "Weekly Contributors": {
@@ -327,7 +334,7 @@
                 "Points": 5799
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 5407
             },
             {
@@ -473,7 +480,7 @@
                 "Points": 4606
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 4479
             },
             {
@@ -555,7 +562,7 @@
                 "Points": 10722
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 10582
             },
             {
@@ -591,7 +598,7 @@
                 "Points": 6416
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 6299
             },
             {
@@ -665,7 +672,7 @@
         ],
         "Week 4": [
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 20268
             },
             {
@@ -749,7 +756,7 @@
                 "Points": 4414
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 4413
             },
             {
@@ -791,7 +798,7 @@
                 "Points": 18614
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 16534
             },
             {
@@ -819,7 +826,7 @@
                 "Points": 7769
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 7129
             },
             {
@@ -909,7 +916,7 @@
         ],
         "Week 6": [
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 19064
             },
             {
@@ -973,7 +980,7 @@
                 "Points": 4472
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 4471
             },
             {
@@ -1031,7 +1038,7 @@
         ],
         "Week 7": [
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 17258
             },
             {
@@ -1063,7 +1070,7 @@
                 "Points": 6381
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 6297
             },
             {
@@ -1153,7 +1160,7 @@
         ],
         "Week 8": [
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 15782
             },
             {
@@ -1161,7 +1168,7 @@
                 "Points": 9438
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 7783
             },
             {
@@ -1279,7 +1286,7 @@
                 "Points": 12847
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 12282
             },
             {
@@ -1339,7 +1346,7 @@
                 "Points": 5127
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 5119
             },
             {
@@ -1413,7 +1420,7 @@
                 "Points": 12448
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 8604
             },
             {
@@ -1449,7 +1456,7 @@
                 "Points": 5751
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 5519
             },
             {
@@ -1539,7 +1546,7 @@
                 "Points": 8041
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 7975
             },
             {
@@ -1551,7 +1558,7 @@
                 "Points": 7335
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 6558
             },
             {
@@ -1653,7 +1660,7 @@
                 "Points": 19231
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 12006
             },
             {
@@ -1717,7 +1724,7 @@
                 "Points": 5038
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 5034
             },
             {
@@ -1799,7 +1806,7 @@
                 "Points": 6608
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 6078
             },
             {
@@ -1863,7 +1870,7 @@
                 "Points": 4392
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 4243
             },
             {
@@ -1893,7 +1900,7 @@
                 "Points": 13491
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 10653
             },
             {
@@ -1933,7 +1940,7 @@
                 "Points": 5874
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 5776
             },
             {
@@ -2007,7 +2014,7 @@
         ],
         "Week 15": [
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 14956
             },
             {
@@ -2051,7 +2058,7 @@
                 "Points": 5263
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 5214
             },
             {
@@ -2157,7 +2164,7 @@
                 "Points": 8164
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 7870
             },
             {
@@ -2185,7 +2192,7 @@
                 "Points": 5124
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 5064
             },
             {
@@ -2275,7 +2282,7 @@
                 "Points": 6172
             },
             {
-                "Name": "Arishem is 4 Newbs",
+                "Name": "RNGezus H8s Me",
                 "Points": 5665
             },
             {
@@ -2323,7 +2330,7 @@
                 "Points": 4464
             },
             {
-                "Name": "Happy Festivus!!!",
+                "Name": "Joker NPC",
                 "Points": 4462
             },
             {
@@ -2605,6 +2612,128 @@
             {
                 "Name": "RNGezus H8s Me",
                 "Points": 1139
+            },
+            {
+                "Name": "DemiseKing",
+                "Points": 0
+            }
+        ],
+        "Week 20": [
+            {
+                "Name": "M-r-420",
+                "Points": 15120
+            },
+            {
+                "Name": "Mr. Wiggles",
+                "Points": 13869
+            },
+            {
+                "Name": "Bryni",
+                "Points": 11532
+            },
+            {
+                "Name": "Galamir",
+                "Points": 10941
+            },
+            {
+                "Name": "Roo",
+                "Points": 5974
+            },
+            {
+                "Name": "3i",
+                "Points": 5910
+            },
+            {
+                "Name": "Sir",
+                "Points": 5492
+            },
+            {
+                "Name": "Gods Perfect 1diot",
+                "Points": 5427
+            },
+            {
+                "Name": "<<AFcooL84>>",
+                "Points": 5248
+            },
+            {
+                "Name": "Bread",
+                "Points": 5124
+            },
+            {
+                "Name": "Adman895",
+                "Points": 4967
+            },
+            {
+                "Name": "M1573R-X",
+                "Points": 4775
+            },
+            {
+                "Name": "Joshernaught",
+                "Points": 4706
+            },
+            {
+                "Name": "Drac20th",
+                "Points": 4556
+            },
+            {
+                "Name": "BAKA",
+                "Points": 4476
+            },
+            {
+                "Name": "Prophect",
+                "Points": 4361
+            },
+            {
+                "Name": "Hoggur",
+                "Points": 4285
+            },
+            {
+                "Name": "Bart Pimpson",
+                "Points": 4226
+            },
+            {
+                "Name": "Joker NPC",
+                "Points": 4146
+            },
+            {
+                "Name": "yablo",
+                "Points": 4050
+            },
+            {
+                "Name": "Octty",
+                "Points": 4038
+            },
+            {
+                "Name": "Tomii",
+                "Points": 3901
+            },
+            {
+                "Name": "Kettellkorn",
+                "Points": 3865
+            },
+            {
+                "Name": "Prinzanity",
+                "Points": 3703
+            },
+            {
+                "Name": "Cheem",
+                "Points": 3285
+            },
+            {
+                "Name": "SuperSeanic",
+                "Points": 3205
+            },
+            {
+                "Name": "Soulmourn",
+                "Points": 2794
+            },
+            {
+                "Name": "Wizzarrd",
+                "Points": 194
+            },
+            {
+                "Name": "RNGezus H8s Me",
+                "Points": 6
             },
             {
                 "Name": "DemiseKing",

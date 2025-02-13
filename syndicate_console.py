@@ -463,7 +463,7 @@ def modify_menu(data, player):
             print("\nInvalid input, please try again.")
             continue
 
-        # Changes an existing player's name.
+        # Updates the Name of a player.
         if action == "Name":
             new_name = input("\nEnter the new name: ").strip()
             if not new_name:
@@ -473,7 +473,17 @@ def modify_menu(data, player):
             if any(p["Name"].lower() == new_name.lower() for p in data["Total Points"] if p != player):
                 print("\nA player with that name already exists. Please choose a different name.")
                 continue
+            
+            old_name = player["Name"]
             player["Name"] = new_name
+
+            # Update the player's name in all weeks
+            for week_key, players in data["Weekly Contributors"].items():
+                for week_player in players:
+                    if week_player["Name"] == old_name:
+                        week_player["Name"] = new_name
+
+            print(f"\nPlayer name updated from {old_name} to {new_name}.")
 
         # Runs the Update Score function.
         elif action == "Score":

@@ -36,8 +36,6 @@ After the user is prompted for a week number, ask the user what data they want t
 
 # ADD THIS -> If the user updates the Active field, it should prompt the user for week_kicked. If the user inputs "current/c" make the week_kicked = current_week.
 
-# ADD THIS -> If a player's name is changed, then each week should also update with the correct name.
-
 # ADD THIS -> When the week_kicked is updated to something other than null, update the Active field to false automatically.
 
 # ADD THIS -> When updating scores, if the user inputs an invalid score, it should repeat the score not break the loop.
